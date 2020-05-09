@@ -8,3 +8,6 @@
 ##### Thank to Traversy Media Youtube channel
 
 2. Part 2 - MERN (Node.js & Express & MongoDB):
+
+- Source video:
+  > https://www.youtube.com/watch?v=KyWaXA_NvT0
