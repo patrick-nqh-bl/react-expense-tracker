@@ -11,3 +11,7 @@
 
 - Source video:
   > https://www.youtube.com/watch?v=KyWaXA_NvT0
+
+### Have a issue in 1:03:28 I can't resolved, but I will coming soon
+
+> Can't load resource
